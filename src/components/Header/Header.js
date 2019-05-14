@@ -10,7 +10,7 @@ function Header(props){
   <br></br>
     <h1 className="display-4">Clicky Game of Thrones</h1>
     <h3>How well do you know the The Realm?</h3>
-    <h4>Do not click on the same Character.</h4>
+    <h4>Do not click on the same Character or you will lose points.</h4>
   </div>
 
 
