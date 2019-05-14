@@ -15,7 +15,7 @@ function Header(props){
 
 
 <nav className="navbar">
-            <span className="navbar2">Game of Thrones</span>
+            <span className="navbar2">Clicky Game of Thrones</span>
             <div>
                 <h5>Score: {props.score}</h5>
             </div>
