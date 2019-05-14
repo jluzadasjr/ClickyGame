@@ -1,0 +1,14 @@
+.wrapper{
+    display: grid;
+    grid-template-columns: 20% auto 20%;
+    grid-template-columns: auto auto auto;
+    grid-gap: 10px;
+    margin-left: 10%;
+    margin-top: 3%;
+    
+}
+
+body {
+    background-image: url("http://wallpapershdnow.com/images/tv-shows/fantasy/game-of-thrones/game-of-thrones-wallpaper-36.jpg");
+    background-size: cover;
+}

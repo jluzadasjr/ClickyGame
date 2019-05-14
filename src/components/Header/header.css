@@ -1,0 +1,33 @@
+.navbar{
+    width: 100%;
+    position: fixed;
+    top: 0%;
+}
+
+h4 {
+    color:red;
+}
+
+h5 {
+    color: #cca300;
+    font-family: 'Redressed', cursive;
+    font-size: 40px;
+}
+
+.navbar2 {
+    color: #cca300;
+    font-family: 'Redressed', cursive;
+    font-size: 40px;
+}
+
+.container {
+    margin-top: 60px;
+    text-align: center;
+    font-family: 'Redressed', cursive;
+    color: #cca300;
+}
+
+nav, body {
+    background-color: black;
+}
+
